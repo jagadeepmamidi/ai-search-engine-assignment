@@ -16,6 +16,7 @@ The system utilizes Sentence Transformers for embedding generation, FAISS for hi
 
 ## Project Structure
 
+```
 search_engine_assignment/
 ├── data/
 │ ├── docs/ # Directory for storing processed text files
@@ -31,6 +32,7 @@ search_engine_assignment/
 ├── main.py # ETL Pipeline: Downloads data, generates embeddings, builds index
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
 
 ## Setup and Installation
 
