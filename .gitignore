@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+data/
+search_engine_store.pkl
+.pytest_cache/
